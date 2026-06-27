@@ -12,5 +12,3 @@ Ex-Meta senior engineer building **data platforms, backend systems, and producti
 ### Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/tchacko1/)
-
-Additional production work (GenAI, agents, data platforms) is available to discuss under NDA — not all projects are public.
