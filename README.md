@@ -6,7 +6,7 @@
 
 ### What I care about
 
-Agentic AI with standards first — evals, contracts, architecture — then velocity. I apply AI-native workflows across engineering and operations without dropping rigor.
+Agentic AI with standards first — evals, contracts, architecture — then velocity. **10,000+ hours** with AI-native software engineering and coding agents as a force multiplier for senior standards, not a substitute.
 
 ### Featured projects
 
