@@ -1,27 +1,22 @@
 # Hi, I'm Tom Chacko
 
-**Ex-Meta Senior AI Engineer** building **production GenAI** — multimodal RAG, multi-agent / agentic systems, LLMOps, and AI evaluation.
+**Ex-Meta Senior AI Engineer** — AI-native software engineering for production systems: backends, platforms, and applied AI (multimodal RAG, multi-agent systems, LLMOps, evals).
 
-**Austin, TX** · **Remote US** · Open to Senior AI Engineer, Technical Co-Founder / Founding Engineer, ML Engineer, and Software Engineer roles (W2 / C2C / contract).
+**Austin, TX** · **Remote US** · [LinkedIn](https://www.linkedin.com/in/tchacko1/) for roles and conversations.
 
 ### What I care about
 
-Agentic AI with standards first — evals, contracts, architecture — then velocity. **10,000+ hours** with AI-native software engineering and coding agents as a force multiplier for senior standards, not a substitute.
+Standards first — evals, contracts, architecture — then velocity. **10,000+ hours** with AI-native software engineering and coding agents as a force multiplier for senior standards, not a substitute.
 
 ### Featured projects
 
-**[AlphaGuard](https://github.com/Alpha-W0lf/alphaguard)** — Interview lab: headline → RAG → LangGraph analyst (`BUY|HOLD|PASS`) → XGBoost downside-risk gate → local run summary (LLMOps / evals / agentic stack).
+**[AlphaGuard](https://github.com/Alpha-W0lf/alphaguard)** — Multi-agent financial research: news → RAG → BUY/HOLD/PASS → downside-risk gate → local LLMOps summary.
 
-**[AI Knowledge Base (public)](https://github.com/Alpha-W0lf/ai-knowledge-base-public)** — Local hybrid RAG + MCP tools for coding agents (vector + keyword fusion; fixtures-only corpus).
+**[AI Knowledge Base (public)](https://github.com/Alpha-W0lf/ai-knowledge-base-public)** — Keep coding agents current: hybrid RAG + MCP (fixtures-only public demo).
 
-**[Eyeglass Finder](https://github.com/Alpha-W0lf/eyeglass_finder)** — High-throughput MLOps computer-vision pipeline (face detection + eyeglasses classification; Docker/GPU; observability).  
+**[Eyeglass Finder](https://github.com/Alpha-W0lf/eyeglass_finder)** — Needle-in-a-haystack CV/MLOps (~17× throughput; Docker/GPU; observability).  
 → [Live qualitative results](https://alpha-w0lf.github.io/eyeglass_finder/docs/latest_run_showcase/qualitative_analysis/final_targets/index.html)
 
 ### Stack (selected)
 
 Python · FastAPI · Go · RAG · LLMs · LangGraph · MCP · multi-agent systems · LLMOps / MLOps · AI evals · vector search · Spark · Kafka · Flink · AWS / GCP · Docker · Kubernetes
-
-### Elsewhere
-
-- [LinkedIn](https://www.linkedin.com/in/tchacko1/)
-- GitHub: [github.com/Alpha-W0lf](https://github.com/Alpha-W0lf)
