@@ -10,6 +10,8 @@ Standards first — evals, contracts, architecture — then velocity. **10,000+ 
 
 ### Featured projects
 
+**[Mechanic RAG](https://github.com/Alpha-W0lf/mechanic_rag)** — Cited answers from service docs: hybrid RAG → RRF → cross-encoder (synthetic fixtures for the public clone).
+
 **[AlphaGuard](https://github.com/Alpha-W0lf/alphaguard)** — Multi-agent financial research: news → RAG → BUY/HOLD/PASS → downside-risk gate → local LLMOps summary.
 
 **[AI Knowledge Base (public)](https://github.com/Alpha-W0lf/ai-knowledge-base-public)** — Keep coding agents current: hybrid RAG + MCP (fixtures-only public demo).
