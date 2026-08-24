@@ -4,6 +4,8 @@
 
 **Austin, TX** · **Remote US** · [LinkedIn](https://www.linkedin.com/in/tchacko1/) for roles and conversations.
 
+Project and C2C engagements via [Lowd Code LLC](https://lowdcode.com) — Texas S-Corp, fully insured.
+
 ### What I care about
 
 Standards first — evals, contracts, architecture — then velocity. **10,000+ hours** with AI-native software engineering and coding agents as a force multiplier for senior standards, not a substitute.
