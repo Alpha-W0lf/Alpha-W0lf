@@ -12,7 +12,10 @@ Standards first — evals, contracts, architecture — then velocity. **10,000+ 
 
 ### Featured projects
 
-**[Mechanic RAG](https://github.com/Alpha-W0lf/mechanic_rag)** — Cited answers from service docs: hybrid RAG → RRF → cross-encoder (synthetic fixtures for the public clone).
+**[mcp-audit](https://github.com/Alpha-W0lf/mcp-audit)** — Conformance test kit for MCP servers: advertised contract vs what the server actually accepts. Every check is seeded by a real bug in [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ([#4651](https://github.com/modelcontextprotocol/servers/issues/4651), [#4666](https://github.com/modelcontextprotocol/servers/issues/4666), [#4686](https://github.com/modelcontextprotocol/servers/issues/4686)).
+
+**[Mechanic RAG](https://github.com/Alpha-W0lf/mechanic_rag)** — Cited answers from service docs: hybrid RAG → RRF → section dedup (local cross-encoder stage; synthetic fixtures for the public clone).  
+→ [Live demo](https://mechanic-rag.vercel.app)
 
 **[AlphaGuard](https://github.com/Alpha-W0lf/alphaguard)** — Multi-agent financial research: news → RAG → BUY/HOLD/PASS → downside-risk gate → local LLMOps summary.
 
