@@ -1,6 +1,6 @@
 # Hi, I'm Tom Chacko
 
-**Ex-Meta Senior AI Engineer** — AI-native software engineering for production systems: backends, platforms, and applied AI (multimodal RAG, multi-agent systems, LLMOps, evals).
+**Senior AI Engineer (Ex-Meta).** AI-native software engineering for production systems: backends, platforms, and applied AI (multimodal RAG, multi-agent systems, LLMOps, evals).
 
 **Austin, TX** · **Remote US** · [LinkedIn](https://www.linkedin.com/in/tchacko1/) for roles and conversations.
 
