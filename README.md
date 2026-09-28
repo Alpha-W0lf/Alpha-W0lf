@@ -12,7 +12,7 @@ Standards first — evals, contracts, architecture — then velocity. **10,000+ 
 
 ### Featured projects
 
-**[Mechanic RAG](https://github.com/Alpha-W0lf/mechanic_rag)** — Live hybrid RAG: vehicle-filtered vector + Postgres FTS → RRF → section dedup → citation-backed answers.  
+**[Mechanic RAG](https://github.com/Alpha-W0lf/mechanic_rag)** — Live hybrid RAG over the complete Honda S2000 manuals on the hosted demo: vehicle-filtered vector + Postgres FTS → RRF → section dedup → citation-backed answers (public clone uses synthetic fixtures).  
 → [Live demo](https://mechanic-rag.vercel.app)
 
 **[mcp-audit](https://github.com/Alpha-W0lf/mcp-audit)** — Conformance test kit for MCP servers: advertised contract vs what the server actually accepts. Reproduces public upstream defect classes and asserts them with CI dogfood ([#4651](https://github.com/modelcontextprotocol/servers/issues/4651), [#4666](https://github.com/modelcontextprotocol/servers/issues/4666), [#4686](https://github.com/modelcontextprotocol/servers/issues/4686)).
