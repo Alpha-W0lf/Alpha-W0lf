@@ -23,7 +23,9 @@
 
 **[mcp-audit](https://github.com/Alpha-W0lf/mcp-audit)**: A test kit that checks whether an MCP server really does what it advertises. Run against the official MCP reference servers, it flagged two known bugs ([#4651](https://github.com/modelcontextprotocol/servers/issues/4651), [#4686](https://github.com/modelcontextprotocol/servers/issues/4686)) before their fixes shipped, and I recommended #4652, the fix that merged. [Results](https://github.com/Alpha-W0lf/mcp-audit/blob/main/docs/REAL_SERVER_RESULTS.md)
 
-**[Eyeglass Finder](https://github.com/Alpha-W0lf/eyeglass_finder)**: A computer-vision pipeline that finds people wearing eyeglasses in 39,258 Wikipedia images, tuned to ~17× throughput (9.8 → 167.5 images/sec).
+**[gods-eye-bench](https://github.com/Alpha-W0lf/gods-eye-bench)**: A reproducible benchmark for AI agents that answer questions about the live world. It replays real feeds (earthquakes, storms, launches, aircraft) through God's Eye View's own MCP server with the clock frozen and scores every answer exactly. Across 17 harness and model pairs, text planted in a feed was the main gap.
+
+**[Eyeglass Finder](https://github.com/Alpha-W0lf/eyeglass_finder)**: A needle-in-a-haystack search: finds people wearing eyeglasses in 39,258 Wikipedia images, from a dataset whose publishers ran a face detector to leave out images where a face covers more than 10% of the picture. ~21× faster after tuning and moving to the M2 Max GPU (10.6 → 225 images/sec).
 → [See the finds](https://alpha-w0lf.github.io/eyeglass_finder/docs/latest_run_showcase/qualitative_analysis/final_targets/index.html)
 
 **[AI Knowledge Base](https://github.com/Alpha-W0lf/ai-knowledge-base-public)**: Production-grade local hybrid search for coding agents, served through a read-only MCP server.
